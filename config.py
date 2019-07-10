@@ -1,0 +1,5 @@
+PROTOCOL = "http"
+HOST = "0.0.0.0"
+PORT = 8080
+UPLOAD_DIR = "apks"
+DOWNLOAD_PATH = PROTOCOL + "://"+HOST+":"+str(PORT)+"/"+UPLOAD_DIR+"/"
