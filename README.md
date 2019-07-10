@@ -1,5 +1,7 @@
 # googleplayapi
-get android app detail from google play and apk file
+get android app detail from google play and apk file.
+this script run on 
+            `googleplayapi.ir`
 ## Run Server:
 for run this server fallow this steps:
 ### Step 1:
