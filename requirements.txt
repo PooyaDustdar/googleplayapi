@@ -10,7 +10,7 @@ gpapi==0.4.3
 greenlet==0.4.15
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 lxml==4.3.4
 MarkupSafe==1.1.1
 pkg-resources==0.0.0
